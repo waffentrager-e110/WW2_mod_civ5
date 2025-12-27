@@ -1,38 +1,45 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Третий Рейх",
+		"leaderName": "Адольф Гитлер",
+		"adjective": ["Немецкий"],
+		"startBias": ["Plains", "Hill"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Немецкий народ пробудился!",
+		"startIntroPart2": "Третий Рейх возрождается и готов изменить мир. Вперед, к победе!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Мы объявляем вам войну! Германия не потерпит сопротивления!",
+		"attacked": "Вы осмелились напасть на нас? Это будет вашей последней ошибкой!",
+		"defeated": "Рейх пал... но идея живет вечно.",
+		"introduction": "Я фюрер Великогерманского Рейха. Германия будет править миром.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Чего вы хотите?",
+		"neutralLetsHearIt": ["Говорите.", "Что вы предлагаете?", "Продолжайте."],
+		"neutralNo": ["Это невозможно!", "Мы отказываемся.", "Нет."],
+		"neutralYes": ["Очень хорошо.", "Согласен.", "Принимаем."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Опять вы?",
+		"hateLetsHearIt": ["Что вам нужно?", "Говорите быстрее.", "Ну?"],
+		"hateNo": ["Ни за что!", "Это неприемлемо!", "Вы с ума сошли?"],
+		"hateYes": ["Ладно...", "Пусть будет так.", "Убирайтесь."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Перемирие... но ненадолго.",
+		"tradeRequest": "Рассмотрите наше торговое предложение.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [0, 0, 0],       // Черный (внешний цвет)
+		"innerColor": [255, 0, 0],     // Красный (внутренний цвет)
+		"unique": "Блицкриг и Автобан",
+		"uniques": [
+			"[+25]% Strength for [All] units",
+			"[+1] Movement for [Armor] units",
+			"May build [Panzer] instead of [Tank]"
+		],
+		"cities": [
+			"Берлин", "Гамбург", "Мюнхен", "Кёльн", "Франкфурт", 
+			"Эссен", "Дортмунд", "Дюссельдорф", "Штутгарт", "Бремен",
+			"Дуйсбург", "Ганновер", "Нюрнберг", "Дрезден", "Лейпциг",
+			"Бохум", "Вупперталь", "Билефельд", "Бонн", "Маннгейм"
+		]
 	}
 ]
