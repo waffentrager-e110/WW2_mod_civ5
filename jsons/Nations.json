@@ -7,9 +7,9 @@
 	
 	"unique": "Блицкриг и Автобан",
 	"uniques": [
-		"[+25]% к урону [All] юнитам",
-		"[+1] к передвижению [Armor] юнитам",
-		"Может построить [Panzer] вместо [Tank]"
+		"[+25]% Strength for [All] units",
+		"[+1] Movement for [Armor] units",
+		"May build [Panzer] instead of [Tank]"
 	],
 	
 	"cities": [
