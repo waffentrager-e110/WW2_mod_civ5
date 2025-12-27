@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Мод для Unciv на 2 мировую войну
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+сейчас мод содержит всего 1 нацию [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
