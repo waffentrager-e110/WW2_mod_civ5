@@ -1,19 +1,15 @@
-{
-	"name": "Третий Рейх",
-	"leaderName": "Адольф Гитлер",
-	"adjective": ["Немецкий"],
-	"startBias": ["Plains", "Hill"],
-	"preferredVictoryType": "Domination",
-	
-	"unique": "Блицкриг и Автобан",
-	"uniques": [
-		"[+25]% Strength for [All] units",
-		"[+1] Movement for [Armor] units",
-		"May build [Panzer] instead of [Tank]"
-	],
-	
-	"cities": [
-		"Берлин", "Гамбург", "Мюнхен", "Кёльн", "Франкфурт", 
-		"Эссен", "Дортмунд", "Дюссельдорф", "Штутгарт", "Бремен"
-	]
-}
+[
+  {
+    "name": "Третий Рейх",
+    "leaderName": "Адольф Гитлер",
+    "adjective": ["Немецкий"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Domination",
+    "unique": "Блицкриг",
+    "uniques": [
+      "[+25]% Strength for [All] units",
+      "[+1] Movement for [Armor] units"
+    ],
+    "cities": ["Берлин", "Гамбург", "Мюнхен"]
+  }
+]
