@@ -21,7 +21,7 @@
 		"uniqueTo": "Третий Рейх",
 		"movement": 4,
 		"strength": 80,
-		"cost": 395,
+		"cost": 0,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
