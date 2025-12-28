@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Завод Henschel",
-		"replaces": "Aqueduct",
+		"replaces": "Factory",
 		"uniqueTo": "Третий Рейх",
 		"cost": 80,
 		"hurryCostModifier": 160,
