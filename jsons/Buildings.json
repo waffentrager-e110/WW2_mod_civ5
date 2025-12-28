@@ -12,7 +12,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Завод Henschel",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Третий Рейх",
 		"cost": 80,
