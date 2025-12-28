@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Пулемётная точка MG-42",
 		"unitType": "Ranged",
 		"uniqueTo": "Третий Рейх",
 		"replaces": "Machine Gun",
