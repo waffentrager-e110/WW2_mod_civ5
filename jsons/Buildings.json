@@ -1,7 +1,6 @@
 [
 	{
 		"name": "Автобан",
-		"replaces": "Airport",
 		"uniqueTo": "Третий Рейх",
 		"cost": 500,
 		"happiness": 2,
@@ -20,7 +19,8 @@
 		"happiness": 2,
 		"uniques": [
 			"[-20]% construction time for [All Road] improvements",
-			"[3] free [Tank] units appear"
+			"[3] free [Tank] units appear",
+			"[+20]% Production when constructing [Culture] buildings [in all cities]"
 		],
 		"requiredTech": "Engineering"
 	}
