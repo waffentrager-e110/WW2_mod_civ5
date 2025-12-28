@@ -18,7 +18,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["[3] free [Armor] units appear"],
+		"uniques": ["[3] free [Tank] units appear"],
 		"requiredTech": "Engineering"
 	}
 ]
