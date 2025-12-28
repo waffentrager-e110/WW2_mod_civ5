@@ -13,5 +13,20 @@
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "machinegun"
-	}
+	},
+	
+    {
+	    "name": "Tiger I",
+		"unitType": "Armored",
+		"uniqueTo": "Третий Рейх",
+		"movement": 4,
+		"strength": 80,
+		"cost": 395,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"promotions": ["Shock I","Blitz"], 
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "tankshot"
+	},
 ]
