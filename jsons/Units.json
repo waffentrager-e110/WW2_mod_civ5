@@ -5,7 +5,7 @@
 		"uniqueTo": "Третий Рейх",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
+		"strength": 50,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
