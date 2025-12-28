@@ -31,8 +31,8 @@
     "innerColor": [180, 0, 0],
 
     "uniques": [
-      "[+10]% Strength for [Armor] units"
-    ],
+  "[+10]% Combat strength for [Armor] units"
+    ]
 
     "cities": [
       "Берлин",
