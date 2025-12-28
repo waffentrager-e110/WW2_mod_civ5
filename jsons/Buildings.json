@@ -18,7 +18,10 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["[-20]% construction time for [All Road] improvements"],["[3] free [Tank] units appear"],
+		"uniques": [
+			"[-20]% construction time for [All Road] improvements",
+			"[3] free [Tank] units appear"
+		],
 		"requiredTech": "Engineering"
 	}
 ]
